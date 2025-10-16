@@ -1,0 +1,760 @@
+{
+  "assetsByChunkName": {
+    "main": [
+      "main.da6cbe14bd5d6af43a5e.js",
+      "main.da6cbe14bd5d6af43a5e.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "type": "assets by status",
+      "cached": true,
+      "filteredChildren": 2,
+      "size": 194223
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 585006,
+      "sizes": {
+        "javascript": 584308,
+        "runtime": 698
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.da6cbe14bd5d6af43a5e.js"
+      ],
+      "auxiliaryFiles": [
+        "main.da6cbe14bd5d6af43a5e.js.map"
+      ],
+      "hash": "9098dd1d09d68e164d18",
+      "childrenByOrder": {}
+    }
+  ],
+  "modules": [
+    {
+      "type": "runtime modules",
+      "moduleType": "runtime",
+      "filteredChildren": 4,
+      "size": 698,
+      "sizes": {
+        "runtime": 698
+      }
+    },
+    {
+      "type": "orphan modules",
+      "orphan": true,
+      "filteredChildren": 2,
+      "size": 1301,
+      "sizes": {
+        "javascript": 1301
+      }
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/esm",
+      "layer": null,
+      "size": 1563,
+      "sizes": {
+        "javascript": 1563
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx|cd6cfe7c8b1989c9d85f65428f426eec",
+      "name": "./src/index.tsx + 2 modules",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 19,
+      "postOrderIndex": 19,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 186,
+      "sizes": {
+        "javascript": 186
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react/index.js",
+      "name": "./node_modules/react/index.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/react/index.js",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+      "issuerName": "./src/index.tsx",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1373,
+      "sizes": {
+        "javascript": 1373
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/client.js",
+      "name": "./node_modules/react-dom/client.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/client.js",
+      "index": 3,
+      "preOrderIndex": 3,
+      "index2": 7,
+      "postOrderIndex": 7,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+      "issuerName": "./src/index.tsx",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 17217,
+      "sizes": {
+        "javascript": 17217
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react/cjs/react.production.js",
+      "name": "./node_modules/react/cjs/react.production.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/react/cjs/react.production.js",
+      "index": 2,
+      "preOrderIndex": 2,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/react/index.js",
+      "issuerName": "./node_modules/react/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react/index.js",
+          "name": "./node_modules/react/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 536016,
+      "sizes": {
+        "javascript": 536016
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/cjs/react-dom-client.production.js",
+      "name": "./node_modules/react-dom/cjs/react-dom-client.production.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/cjs/react-dom-client.production.js",
+      "index": 4,
+      "preOrderIndex": 4,
+      "index2": 6,
+      "postOrderIndex": 6,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/client.js",
+      "issuerName": "./node_modules/react-dom/client.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/client.js",
+          "name": "./node_modules/react-dom/client.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 2480,
+      "sizes": {
+        "javascript": 2480
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+      "name": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+      "index": 11,
+      "preOrderIndex": 11,
+      "index2": 9,
+      "postOrderIndex": 9,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+      "issuerName": "./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+          "name": "./src/styles.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1534,
+      "sizes": {
+        "javascript": 1534
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/styleDomAPI.js",
+      "name": "./node_modules/style-loader/dist/runtime/styleDomAPI.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/styleDomAPI.js",
+      "index": 12,
+      "preOrderIndex": 12,
+      "index2": 10,
+      "postOrderIndex": 10,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+      "issuerName": "./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+          "name": "./src/styles.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1003,
+      "sizes": {
+        "javascript": 1003
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/insertBySelector.js",
+      "name": "./node_modules/style-loader/dist/runtime/insertBySelector.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/insertBySelector.js",
+      "index": 13,
+      "preOrderIndex": 13,
+      "index2": 11,
+      "postOrderIndex": 11,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+      "issuerName": "./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+          "name": "./src/styles.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 298,
+      "sizes": {
+        "javascript": 298
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+      "name": "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+      "index": 14,
+      "preOrderIndex": 14,
+      "index2": 12,
+      "postOrderIndex": 12,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+      "issuerName": "./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+          "name": "./src/styles.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 285,
+      "sizes": {
+        "javascript": 285
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/insertStyleElement.js",
+      "name": "./node_modules/style-loader/dist/runtime/insertStyleElement.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/insertStyleElement.js",
+      "index": 15,
+      "preOrderIndex": 15,
+      "index2": 13,
+      "postOrderIndex": 13,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+      "issuerName": "./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+          "name": "./src/styles.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 380,
+      "sizes": {
+        "javascript": 380
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/styleTagTransform.js",
+      "name": "./node_modules/style-loader/dist/runtime/styleTagTransform.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/runtime/styleTagTransform.js",
+      "index": 16,
+      "preOrderIndex": 16,
+      "index2": 14,
+      "postOrderIndex": 14,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+      "issuerName": "./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+          "name": "./src/styles.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 776,
+      "sizes": {
+        "javascript": 776
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+      "name": "./node_modules/css-loader/dist/cjs.js!./src/styles.css",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+      "index": 17,
+      "preOrderIndex": 17,
+      "index2": 17,
+      "postOrderIndex": 17,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+      "issuerName": "./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+          "name": "./src/styles.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 194,
+      "sizes": {
+        "javascript": 194
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/scheduler/index.js",
+      "name": "./node_modules/scheduler/index.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/scheduler/index.js",
+      "index": 5,
+      "preOrderIndex": 5,
+      "index2": 3,
+      "postOrderIndex": 3,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/cjs/react-dom-client.production.js",
+      "issuerName": "./node_modules/react-dom/cjs/react-dom-client.production.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/client.js",
+          "name": "./node_modules/react-dom/client.js"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/cjs/react-dom-client.production.js",
+          "name": "./node_modules/react-dom/cjs/react-dom-client.production.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1359,
+      "sizes": {
+        "javascript": 1359
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/index.js",
+      "name": "./node_modules/react-dom/index.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/index.js",
+      "index": 7,
+      "preOrderIndex": 7,
+      "index2": 5,
+      "postOrderIndex": 5,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/cjs/react-dom-client.production.js",
+      "issuerName": "./node_modules/react-dom/cjs/react-dom-client.production.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/client.js",
+          "name": "./node_modules/react-dom/client.js"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/cjs/react-dom-client.production.js",
+          "name": "./node_modules/react-dom/cjs/react-dom-client.production.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 505,
+      "sizes": {
+        "javascript": 505
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "name": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "index": 18,
+      "preOrderIndex": 18,
+      "index2": 15,
+      "postOrderIndex": 15,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+          "name": "./src/styles.css"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 2303,
+      "sizes": {
+        "javascript": 2303
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/runtime/api.js",
+      "name": "./node_modules/css-loader/dist/runtime/api.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/runtime/api.js",
+      "index": 19,
+      "preOrderIndex": 19,
+      "index2": 16,
+      "postOrderIndex": 16,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles.css",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/style-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+          "name": "./src/styles.css"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/css-loader/dist/cjs.js!/Users/metodi/Downloads/transaction-viewer/src/styles.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 10181,
+      "sizes": {
+        "javascript": 10181
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/scheduler/cjs/scheduler.production.js",
+      "name": "./node_modules/scheduler/cjs/scheduler.production.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/scheduler/cjs/scheduler.production.js",
+      "index": 6,
+      "preOrderIndex": 6,
+      "index2": 2,
+      "postOrderIndex": 2,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/scheduler/index.js",
+      "issuerName": "./node_modules/scheduler/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/client.js",
+          "name": "./node_modules/react-dom/client.js"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/cjs/react-dom-client.production.js",
+          "name": "./node_modules/react-dom/cjs/react-dom-client.production.js"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/scheduler/index.js",
+          "name": "./node_modules/scheduler/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 6655,
+      "sizes": {
+        "javascript": 6655
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/cjs/react-dom.production.js",
+      "name": "./node_modules/react-dom/cjs/react-dom.production.js",
+      "nameForCondition": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/cjs/react-dom.production.js",
+      "index": 8,
+      "preOrderIndex": 8,
+      "index2": 4,
+      "postOrderIndex": 4,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/index.js",
+      "issuerName": "./node_modules/react-dom/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!/Users/metodi/Downloads/transaction-viewer/src/index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/client.js",
+          "name": "./node_modules/react-dom/client.js"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/cjs/react-dom-client.production.js",
+          "name": "./node_modules/react-dom/cjs/react-dom-client.production.js"
+        },
+        {
+          "identifier": "/Users/metodi/Downloads/transaction-viewer/node_modules/react-dom/index.js",
+          "name": "./node_modules/react-dom/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    }
+  ]
+}

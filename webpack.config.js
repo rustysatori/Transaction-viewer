@@ -1,6 +1,8 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
+const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
+const { StatsWriterPlugin } = require('webpack-stats-plugin');
 
 module.exports = {
     entry: "./src/index.tsx",
@@ -45,6 +47,16 @@ module.exports = {
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
             template: "./public/index.html",
+        }),
+        new BundleAnalyzerPlugin(), // Automatically opens the analysis report after build
+        new StatsWriterPlugin({
+            filename: 'stats.json', // Will be written to your output directory
+            stats: {
+                all: false,
+                assets: true,
+                modules: true,
+                chunks: true,
+            },
         }),
     ],
     devServer: {
